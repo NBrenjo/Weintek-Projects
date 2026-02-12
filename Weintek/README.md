@@ -1,1 +1,1 @@
-Projekt_a/README.md
+Projekt_A/README.md
